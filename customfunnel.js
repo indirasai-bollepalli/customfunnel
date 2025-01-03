@@ -55,7 +55,7 @@ var getScriptPromisify = (src) => {
   
         const myChart = echarts.init(this._root, "wight");
         const option = {
-          color: ['#FFB6C1', '#FFCC99', '#C1E1C1', '#ADD8E6', '#E0BBE4'],
+          color:['#FF6347','#FF4500','#FFD700','#FF8C00' ,'#FF1493'],
           title: {
             text: "",
           },
